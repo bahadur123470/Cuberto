@@ -411,3 +411,9 @@ html, body {
     padding: 2px;
     border: 1px solid #fff;
 }
+
+
+.center button,
+.start p:hover {
+    cursor: pointer;
+}
